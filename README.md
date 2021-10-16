@@ -4,10 +4,7 @@ This repository contains list of all the projects under GDSC DIT which are parti
 
 | Project | Tech Stack | Overview |
 |------------|----------|----------|
-| [Covid Care Website](https://github.com/HackClubRAIT/HackClubRAIT-Website.github.io)| Html, CSS, Javascript, PHP, Bootstrap | This is the official website of Hack Club RAIT |
-| [Etch A Sketch](https://github.com/HackClubRAIT/Wizard-Of-Docs) | Html, CSS, Javascript | A open source project to bring all the data structures and algorithms docs under one repository. |
-| [God Of War Api](https://github.com/HackClubRAIT/Frontend-Owls) | Html, CSS, Javascript, NodeJS | An open source project to bring all front end documentation under one repository |
-| [QuizzR-API](https://github.com/siddhi-244/Embellish) | Html,css,js,jquery | This repository contains different styled components in html,css,js,jquery which can be used in any website.|
-| [](https://github.com/SahityaRoy/E-Learning-freesite) | Html css Js bootstrap  | It's a resource for every newbie developer where students can find their basic things. |
-| [](https://github.com/ZaidKhan2002/DEV.MAPS) | HTML, CSS, JAVASCRIPT AND JQUERY  | This project is mainly focused on the increment of outreach of development support for new developers who may find it difficult initially to get a grab of their desired track which this web-app attempts to tackle.Made on Front-end technologies it has been made to be less obtrusive so that users can navigate through the web-app easily. All tracks have been outlined in a constructive so that people can have a collection of resources on their fingertips. |
-| [](https://github.com/purva2906/Mood-music-player) | Html, css, js | A music player which suggest songs according to your mood and also analyse your mood by a mood test.|
+| [Covid Care Website](https://github.com/GDSC-Web-Development/covid-care-website)| Html, CSS, Javascript, PHP, MySQL, Bootstrap | A site which provides information regarding the availability of beds & medicines in nearby Hospital & Medicals respectively along with covid stats of different countries. Technology Used; PHP, JS, MySQL, API, HTML, CSS, Bootstrap. |
+| [Etch A Sketch](https://github.com/GDSC-Web-Development/Etch-a-sketch) | Html, CSS, Javascript | A browser version of something between a sketchpad and an Etch-A-Sketch built using HTML, CSS and Javascript. |
+| [God Of War Api](https://github.com/GDSC-Web-Development/God-of-war-api) | Html, CSS, Javascript, NodeJS | A basic API prepared to practice GET request in NodeJS which provides data about characters of Playstation based game God Of War. |
+| [SSL Company Website](https://github.com/GDSC-Web-Development/Company-website) | Html, CSS | This website was made for SSL PVT LTD using HTML and CSS.|
